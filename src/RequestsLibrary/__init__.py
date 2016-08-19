@@ -1,5 +1,5 @@
 from RequestsLibrary import RequestsKeywords
-from version import VERSION
+from RequestsLibrary.version import VERSION
 
 _version_ = VERSION
 
